@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Beta\Bora\Entities;
+namespace Bx\Geolocation\Entities;
 
 
 use Bitrix\Main\Application;

@@ -6,6 +6,7 @@ namespace Bx\Geolocation\Interfaces;
 
 use Bx\Geolocation\Models\Location;
 use Bx\Model\ModelCollection;
+use Bx\Model\Interfaces\ModelServiceInterface;
 
 interface LocationServiceInterface extends ModelServiceInterface
 {

@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "aa5b6b8ea797de51fa36828e6968bda4",
+    "packages": [
+        {
+            "name": "beta/bx.model",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/beta-eto-code/bx.model.git",
+                "reference": "b65330507ad6962dc459850ae173f13c9787adfb"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/beta-eto-code/bx.model/zipball/b65330507ad6962dc459850ae173f13c9787adfb",
+                "reference": "b65330507ad6962dc459850ae173f13c9787adfb",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "bitrix-module",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Alexander Nesterov",
+                    "email": "alex19pov31@gmail.com"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/beta-eto-code/bx.model/issues",
+                "source": "https://github.com/beta-eto-code/bx.model/tree/master"
+            },
+            "time": "2021-04-22T07:54:32+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "beta/bx.model": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=7.2",
+        "ext-json": "*"
+    },
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}

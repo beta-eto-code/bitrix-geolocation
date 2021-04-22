@@ -1,5 +1,5 @@
 {
-    "name": "beta/bitrix-openid-client",
+    "name": "beta/bitrix-geolocation",
     "description": "Bitrix geolocation",
     "type": "lib",
     "license": "MIT",

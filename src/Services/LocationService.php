@@ -9,7 +9,6 @@ use Bx\Geolocation\Models\Location;
 use Bx\Model\AbsOptimizedModel;
 use Bx\Model\ModelCollection;
 use Bx\Model\BaseModelService;
-use Bx\Geolocation\BitrixGeolocationService;
 use Bx\Geolocation\Interfaces\GeolocationServiceInterface;
 use Bx\Geolocation\Interfaces\LocationServiceInterface;
 use Bitrix\Main\ArgumentException;

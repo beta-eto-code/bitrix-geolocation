@@ -8,7 +8,7 @@ use Bx\Geolocation\Models\Location;
 use Bx\Geolocation\Interfaces\GeolocationServiceInterface;
 use Bx\Geolocation\Interfaces\LocationServiceInterface;
 
-abstract class BaseLocationService implements GeolocationServiceInterface
+abstract class BaseGeoLocationService implements GeolocationServiceInterface
 {
     /**
      * @var GeolocationServiceInterface|null

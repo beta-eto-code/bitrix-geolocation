@@ -1,12 +1,13 @@
 <?php
 
-namespace Bx\Geolocation;
+namespace Bx\Geolocation\Services;
 
 
+use Bx\Geolocation\BaseGeoLocationService;
 use Bx\Geolocation\Interfaces\LocationServiceInterface;
 use Bitrix\Main\Service\GeoIp;
 
-final class BitrixGeolocationService extends BaseLocationService
+final class BitrixGeolocationService extends BaseGeoLocationService
 {
     /**
      * @var string
